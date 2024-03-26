@@ -7,11 +7,11 @@ Build a personal website using Streamlit and deploy the website to Streamlit Clo
 
 Open the terminal and run the following commands:
 
-python -m venv venv
-
-source venv/bin/activate
-
-pip install -r requirements.txt
+    python -m venv venv
+    
+    source venv/bin/activate
+    
+    pip install -r requirements.txt
 
 
 ## What's Included
