@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header('Hello, I am :blue[Felicity] :sunglasses:')
+st.header('Hello, I am :orange[Felicity] :sunglasses:')
 
 st.subheader('a UX Researcher with a background in HCI and UX Design.')
 
