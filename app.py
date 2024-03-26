@@ -6,4 +6,6 @@ st.subheader('a UX Researcher with a background in HCI and UX Design.')
 
 st.subheader('My passion lies in merging design thinking and research insights to craft meaningful and impactful solutions.')
 
-##st.image('sunrise.jpg', caption='Sunrise by the mountains')
+image_path = '/Users/liufenglyu/Downloads/Felicity.jpg'
+st.image(image_path, caption='In Yunnan, China')
+
